@@ -139,7 +139,7 @@ Currently learning in <strong>ALX ProDev BackEnd</strong> and aiming to grow int
   <img src="https://github-readme-streak-stats.herokuapp.com?user={{github-username}}" alt="GitHub Streak" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{github-username}}&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souulaymaa&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -157,9 +157,8 @@ Currently learning in <strong>ALX ProDev BackEnd</strong> and aiming to grow int
 <!-- Credentials -->
 <h2>🎓 Education & Certifications</h2>
 <ul>
-  <li><strong>ALX ProDev BackEnd</strong> — {{Cohort/Year}}</li>
-  <li>{{BSc/MSc}} in {{Field}} — {{University}}, {{Year}}</li>
-  <li>{{Any relevant certs}}</li>
+  <li><strong>ALX ProDev BackEnd</strong> — 2025</li>
+  <li>Bsc in Computer Science — TU Dortmund, 2023 </li>
 </ul>
 
 ---
@@ -179,8 +178,8 @@ I’m open to roles and collaborations where backend craftsmanship meets real-wo
 <strong>Let’s build something meaningful.</strong>
 </p>
 <p>
-  <a href="mailto:{{your.email}}">📩 Email</a> · 
-  <a href="https://www.linkedin.com/in/{{your-handle}}/">💼 LinkedIn</a> · 
+  <a href="mailto:dhimenesalma@gmail.com">📩 Email</a> · 
+  <a href="https://www.linkedin.com/in/salma-dhimene/">💼 LinkedIn</a> · 
   <a href="https://{{your-portfolio-domain}}">🌐 Portfolio</a>
 </p>
 
