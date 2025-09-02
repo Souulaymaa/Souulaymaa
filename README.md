@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <h1>Hi, I'm {{Your Name}} 👋</h1>
+  <h1>Hi, I'm Salma 👋</h1>
   <p>
     <strong>Backend Engineer</strong> · ALX ProDev BackEnd Learner · Impact-driven Builder
   </p>
