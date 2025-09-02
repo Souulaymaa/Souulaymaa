@@ -16,7 +16,7 @@
     </a>
   </p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username={{github-username}}&style=flat&label=Profile+Views" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Souulaymaa&style=flat&label=Profile+Views" alt="Profile views" />
   </p>
 </div>
 
@@ -133,10 +133,10 @@ Currently learning in <strong>ALX ProDev BackEnd</strong> and aiming to grow int
 <!-- Metrics / Stats -->
 <h2>📈 GitHub Stats</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username={{github-username}}&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Souulaymaa&show_icons=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user={{github-username}}" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Souulaymaa" alt="GitHub Streak" />
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souulaymaa&layout=compact" alt="Top Languages" />
