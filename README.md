@@ -86,7 +86,6 @@ Currently learning in <strong>ALX ProDev BackEnd</strong> and aiming to grow int
 <div>
   <h3>🧠 EduSister (Concept) – Rights & Health Learning</h3>
   <p>
-    <strong>Stack:</strong> {{Tech}}<br/>
     <strong>Highlights:</strong> Low-data content delivery, gamified lessons, localized voiceovers.<br/>
     <strong>Impact:</strong> Accessible learning for girls about health, consent, and equality.
   </p>
@@ -142,15 +141,6 @@ Currently learning in <strong>ALX ProDev BackEnd</strong> and aiming to grow int
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souulaymaa&layout=compact" alt="Top Languages" />
 </p>
 
----
-
-<!-- Publications / Notes -->
-<h2>✍️ Writing & Notes</h2>
-<ul>
-  <li><a href="{{post1-url}}">Debugging GraphQL resolvers efficiently</a></li>
-  <li><a href="{{post2-url}}">Designing a resilient booking flow</a></li>
-  <li><a href="{{post3-url}}">From docs to DX: documenting APIs with OpenAPI</a></li>
-</ul>
 
 ---
 
@@ -158,6 +148,7 @@ Currently learning in <strong>ALX ProDev BackEnd</strong> and aiming to grow int
 <h2>🎓 Education & Certifications</h2>
 <ul>
   <li><strong>ALX ProDev BackEnd</strong> — 2025</li>
+  <li><strong>ALX Professional Foundations</strong> — 2025</li>
   <li>Bsc in Computer Science — TU Dortmund, 2023 </li>
 </ul>
 
